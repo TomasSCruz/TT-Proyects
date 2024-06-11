@@ -1,5 +1,7 @@
 # Proyectos TripleTen
 
+![TripleTenLogo](https://i.ytimg.com/vi/d8bUK_BVbRU/maxresdefault.jpg)
+
 Este repositorio comprende todos los cursos que hice en el bootcamp TripleTen. Cada carpeta corresponde a un proyecto perteneciente a un sprint respecto a un tema en concreto del campo de Data Science.
  
 Naturalmente, los proyectos iniciales son simples y fáciles. Penosamente GitHub ordena las carpetas del repositorio de manera alfabética por lo que acá se encontrará el verdadero orden en el que fueron hechos los proyectos. 
