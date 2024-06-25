@@ -4,8 +4,6 @@
 
 Este repositorio comprende todos los cursos que hice en el bootcamp TripleTen. Cada carpeta corresponde a un proyecto perteneciente a un sprint respecto a un tema en concreto del campo de Data Science.
  
-Naturalmente, los proyectos iniciales son simples y fáciles. Penosamente GitHub ordena las carpetas del repositorio de manera alfabética por lo que acá se encontrará el verdadero orden en el que fueron hechos los proyectos. 
- 
 1. [**Proyecto Music**](https://github.com/TomasSCruz/TT-Proyects/blob/main/Proyecto%20Music/Proyecto%20Music.ipynb): El comienzo de todo, acá se plasmaron mis primeros conocimientos de Python. El proyecto consiste en preprocesar los datos y someter 3 hipótesis a prueba.
 2. [**Proyecto Credit**](https://github.com/TomasSCruz/TT-Proyects/blob/main/Proyecto%20Credit/Proyecto%20Credit.ipynb): Un proyecto similar al anterior pero mucho más real. Por más de que los objetivos eran los mismos, los datos eran mucho más reales por lo que implicó mucho más preprocesamiento para contestar la misma cantidad de preguntas.\
 3. [**Proyecto Crankshaft List**](https://github.com/TomasSCruz/TT-Proyects/blob/main/Proyecto%20Crankshaft%20List/Proyecto%20Crankshaft%20List.ipynb): Acá es donde empieza a parecerse un poco más a un workflow normal ya que se incluye el Análisis Exploratorio de Datos (EDA) y en vez de una pregunta concreta que se puede responder mediante pruebas de hipótesis, se trata de qué factores determinan el precio de un vehículo.
