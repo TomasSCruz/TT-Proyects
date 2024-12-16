@@ -1,3 +1,4 @@
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/TomasSCruz/TT-Proyects/blob/main/README.es.md)
 # Projects TripleTen
 
 ![TripleTenLogo](https://i.ytimg.com/vi/d8bUK_BVbRU/maxresdefault.jpg)
